@@ -1,0 +1,62 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "swa",
+  "dataset_name": "afrisenti",
+  "dataset_size": 372986,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/masakhane/afrisenti@eb42667d2e83d0081864767b47681fbaf00144fb/data/swa/train.tsv": {
+      "num_bytes": 212734,
+      "checksum": null
+    },
+    "hf://datasets/masakhane/afrisenti@eb42667d2e83d0081864767b47681fbaf00144fb/data/swa/dev.tsv": {
+      "num_bytes": 51430,
+      "checksum": null
+    },
+    "hf://datasets/masakhane/afrisenti@eb42667d2e83d0081864767b47681fbaf00144fb/data/swa/test.tsv": {
+      "num_bytes": 90792,
+      "checksum": null
+    }
+  },
+  "download_size": 354956,
+  "features": {
+    "tweet": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 727942,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 223582,
+      "num_examples": 1810,
+      "dataset_name": "afrisenti"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 54136,
+      "num_examples": 453,
+      "dataset_name": "afrisenti"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 95268,
+      "num_examples": 748,
+      "dataset_name": "afrisenti"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
