@@ -1,0 +1,2 @@
+test_loss,test_accuracy,test_f1,embedding_dim,hidden_dim,num_layers,dropout,learning_rate,batch_size,epochs,vocab_size
+0.8757008837616962,0.6392681594756964,0.5654940383043937,100,128,2,0.2,0.001,32,10,4075
