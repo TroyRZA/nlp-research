@@ -1,0 +1,5 @@
+Dataset     Model  Loss      Accuracy  F1       
+Swahili     mBERT  1.037037  0.346257  0.271630 
+Portuguese  mBERT  1.078578  0.176952  0.079557  
+Sesotho     mBERT  1.198339  0.178899  0.093481   
+

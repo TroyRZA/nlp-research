@@ -1,0 +1,4 @@
+Dataset,Model,Loss,Accuracy,F1,Precision,Recall
+Swahili,mBERT,1.2327927350997925,0.0,0.0,0.0,0.0
+Portuguese,mBERT,1.4174901247024536,0.0,0.0,0.0,0.0
+Sesotho,mBERT,1.4174901247024536,0.0,0.0,0.0,0.0
