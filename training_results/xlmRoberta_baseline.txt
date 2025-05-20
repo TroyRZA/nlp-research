@@ -1,0 +1,5 @@
+Results Summary:
+      Dataset        Model      Loss  Accuracy        F1  Precision    Recall
+0     Swahili  XLM-RoBERTa  1.185747  0.106952  0.020667   0.011439  0.106952
+1  Portuguese  XLM-RoBERTa  1.232671  0.171491  0.050220   0.029417  0.171491
+2     Sesotho  XLM-RoBERTa  1.040040  0.247706  0.098354   0.061358  0.247706

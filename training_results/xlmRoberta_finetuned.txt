@@ -1,0 +1,6 @@
+
+Dataset      | Acc (val)  | F1 (val)   | Acc (test) | F1 (test) 
+
+Swahili      | 0.5916     | 0.4398     | 0.5936     | 0.4422    
+Portuguese   | 0.6532     | 0.6359     | 0.6737     | 0.6660    
+Sesotho      | 0.7156     | 0.5970     | 0.7110     | 0.5909    
