@@ -1,0 +1,2 @@
+test_loss,test_accuracy,test_f1,test_precision,test_recall,epochs,learning_rate,batch_size
+0.7730293401464104,0.6572910977607864,0.6657699059419883,0.6872529744427168,0.6572910977607864,3,2e-05,16
