@@ -1,0 +1,510 @@
+[
+  {
+    "sample_id": 2619,
+    "text": "@user 😂😂😂 acredite talvez Seja porque estás sozinha, ou porque te traíram, ou porque de todos que conheces ninguém te quer ou mesmo porque os que te querem não te conquistaram, ou mesmo porque o Biele,Mas ter uma gaja que te manda bom dia amor, logo as 6 já estão num bom papo,",
+    "true_label": 0,
+    "predicted_label": 1,
+    "prediction_probability": 0.3919806480407715,
+    "all_probabilities": [
+      0.21978874504566193,
+      0.3919806480407715,
+      0.3882305920124054
+    ],
+    "lime_explanation": [
+      {
+        "feature": "6",
+        "importance": 0.006601142541020745
+      },
+      {
+        "feature": "estão",
+        "importance": 0.0062592803199470436
+      },
+      {
+        "feature": "o",
+        "importance": 0.005335090519247279
+      },
+      {
+        "feature": "Biele",
+        "importance": 0.005227428132462501
+      },
+      {
+        "feature": "dia",
+        "importance": 0.004728962530783546
+      },
+      {
+        "feature": "conheces",
+        "importance": 0.004269727335152289
+      },
+      {
+        "feature": "amor",
+        "importance": 0.003944992094522626
+      },
+      {
+        "feature": "sozinha",
+        "importance": 0.0035029816927147563
+      },
+      {
+        "feature": "talvez",
+        "importance": -0.0030038148563630057
+      },
+      {
+        "feature": "ou",
+        "importance": -0.0029136402613970046
+      }
+    ]
+  },
+  {
+    "sample_id": 456,
+    "text": "Ihhh 😭🔥😍👏🏽👏🏽👏🏽 hoje ha muita violência aqui https://t.co/n8FFWl4vzz",
+    "true_label": 0,
+    "predicted_label": 2,
+    "prediction_probability": 0.37820616364479065,
+    "all_probabilities": [
+      0.257859468460083,
+      0.36393433809280396,
+      0.37820616364479065
+    ],
+    "lime_explanation": [
+      {
+        "feature": "https",
+        "importance": 0.014486444459436674
+      },
+      {
+        "feature": "n8FFWl4vzz",
+        "importance": -0.0061808568840465514
+      },
+      {
+        "feature": "violência",
+        "importance": 0.004771505919452021
+      },
+      {
+        "feature": "hoje",
+        "importance": 0.00426297765315527
+      },
+      {
+        "feature": "co",
+        "importance": 0.0031037843522403546
+      },
+      {
+        "feature": "Ihhh",
+        "importance": 0.003090671474631759
+      },
+      {
+        "feature": "aqui",
+        "importance": 0.0026903387143321664
+      },
+      {
+        "feature": "t",
+        "importance": -0.00201908618622096
+      },
+      {
+        "feature": "ha",
+        "importance": 0.0013873933226667056
+      },
+      {
+        "feature": "muita",
+        "importance": -6.1959676085027495e-06
+      }
+    ]
+  },
+  {
+    "sample_id": 102,
+    "text": "Messi e Ronaldo se perseguem 😂",
+    "true_label": 1,
+    "predicted_label": 2,
+    "prediction_probability": 0.3917955756187439,
+    "all_probabilities": [
+      0.25741103291511536,
+      0.35079342126846313,
+      0.3917955756187439
+    ],
+    "lime_explanation": [
+      {
+        "feature": "Messi",
+        "importance": 0.009271615958526018
+      },
+      {
+        "feature": "se",
+        "importance": -0.003598369362892455
+      },
+      {
+        "feature": "perseguem",
+        "importance": -0.0022150834172194396
+      },
+      {
+        "feature": "e",
+        "importance": -0.0018197304063703778
+      },
+      {
+        "feature": "Ronaldo",
+        "importance": -0.000881447494877162
+      }
+    ]
+  },
+  {
+    "sample_id": 3037,
+    "text": "🎵 Então eu te olhava para vê se você dormia bem 🙈!! Amor é tão lindo!! https://t.co/hMjIFluEng",
+    "true_label": 2,
+    "predicted_label": 2,
+    "prediction_probability": 0.3763541579246521,
+    "all_probabilities": [
+      0.2538110911846161,
+      0.3698347508907318,
+      0.3763541579246521
+    ],
+    "lime_explanation": [
+      {
+        "feature": "hMjIFluEng",
+        "importance": -0.01202333453245697
+      },
+      {
+        "feature": "https",
+        "importance": 0.011256864454343929
+      },
+      {
+        "feature": "Amor",
+        "importance": 0.005235611276402585
+      },
+      {
+        "feature": "Então",
+        "importance": 0.004095962564134742
+      },
+      {
+        "feature": "t",
+        "importance": -0.0029819020692509563
+      },
+      {
+        "feature": "co",
+        "importance": 0.002901526180152923
+      },
+      {
+        "feature": "lindo",
+        "importance": 0.0027299378343097654
+      },
+      {
+        "feature": "é",
+        "importance": 0.0026376118738761847
+      },
+      {
+        "feature": "para",
+        "importance": 0.0018892460650389968
+      },
+      {
+        "feature": "te",
+        "importance": 0.0015614947939310698
+      }
+    ]
+  },
+  {
+    "sample_id": 1126,
+    "text": "@user Eu também @user trazer para nós 🤣😂 eu só tenho calças assim e se rasgaram até",
+    "true_label": 1,
+    "predicted_label": 2,
+    "prediction_probability": 0.3941039443016052,
+    "all_probabilities": [
+      0.2559002637863159,
+      0.34999579191207886,
+      0.3941039443016052
+    ],
+    "lime_explanation": [
+      {
+        "feature": "calças",
+        "importance": 0.005931422994349565
+      },
+      {
+        "feature": "nós",
+        "importance": 0.004572215381231435
+      },
+      {
+        "feature": "eu",
+        "importance": -0.0037664836991446768
+      },
+      {
+        "feature": "trazer",
+        "importance": 0.0029460260907949276
+      },
+      {
+        "feature": "Eu",
+        "importance": -0.0027616272134868944
+      },
+      {
+        "feature": "também",
+        "importance": -0.002342691759191294
+      },
+      {
+        "feature": "só",
+        "importance": -0.0017014160914516322
+      },
+      {
+        "feature": "assim",
+        "importance": -0.0012827402075358727
+      },
+      {
+        "feature": "user",
+        "importance": -0.00110941667162695
+      },
+      {
+        "feature": "até",
+        "importance": -0.0008912472929362338
+      }
+    ]
+  },
+  {
+    "sample_id": 1003,
+    "text": "Até porque é só uma boleia. O que pode acontecer ?😌 https://t.co/auiOlrA4nm",
+    "true_label": 1,
+    "predicted_label": 2,
+    "prediction_probability": 0.38726645708084106,
+    "all_probabilities": [
+      0.2645786702632904,
+      0.34815481305122375,
+      0.38726645708084106
+    ],
+    "lime_explanation": [
+      {
+        "feature": "auiOlrA4nm",
+        "importance": -0.011878432366094715
+      },
+      {
+        "feature": "https",
+        "importance": 0.0063679935140221145
+      },
+      {
+        "feature": "co",
+        "importance": 0.004023214600958824
+      },
+      {
+        "feature": "porque",
+        "importance": 0.003175899839182772
+      },
+      {
+        "feature": "O",
+        "importance": -0.0019723091962305624
+      },
+      {
+        "feature": "que",
+        "importance": 0.001633926670973548
+      },
+      {
+        "feature": "acontecer",
+        "importance": 0.0013313212437706032
+      },
+      {
+        "feature": "pode",
+        "importance": 0.0010612831626738875
+      },
+      {
+        "feature": "é",
+        "importance": 0.0008529019782355534
+      },
+      {
+        "feature": "uma",
+        "importance": 0.0007107904609191249
+      }
+    ]
+  },
+  {
+    "sample_id": 914,
+    "text": "@user @user 🤣🤣🤣🤣🤣🤣 esse so pode dormir na beliche 🔥🔥🔥",
+    "true_label": 1,
+    "predicted_label": 2,
+    "prediction_probability": 0.38134774565696716,
+    "all_probabilities": [
+      0.25975048542022705,
+      0.3589017689228058,
+      0.38134774565696716
+    ],
+    "lime_explanation": [
+      {
+        "feature": "esse",
+        "importance": -0.005239263729154754
+      },
+      {
+        "feature": "so",
+        "importance": 0.004527664408932331
+      },
+      {
+        "feature": "beliche",
+        "importance": 0.004308300084710784
+      },
+      {
+        "feature": "pode",
+        "importance": -0.0035213741475920816
+      },
+      {
+        "feature": "dormir",
+        "importance": -0.002516668901587984
+      },
+      {
+        "feature": "user",
+        "importance": 0.0022513627249953973
+      },
+      {
+        "feature": "na",
+        "importance": -0.0005383053055776129
+      }
+    ]
+  },
+  {
+    "sample_id": 571,
+    "text": "Esse sr exagerou eu tinha muito apreço mas 💔 https://t.co/6KQ7o5G3f2",
+    "true_label": 0,
+    "predicted_label": 2,
+    "prediction_probability": 0.38043567538261414,
+    "all_probabilities": [
+      0.26391157507896423,
+      0.355652779340744,
+      0.38043567538261414
+    ],
+    "lime_explanation": [
+      {
+        "feature": "6KQ7o5G3f2",
+        "importance": -0.006823357149339269
+      },
+      {
+        "feature": "https",
+        "importance": 0.006348656154687303
+      },
+      {
+        "feature": "sr",
+        "importance": 0.0050455491719366445
+      },
+      {
+        "feature": "Esse",
+        "importance": 0.0032496384354160665
+      },
+      {
+        "feature": "co",
+        "importance": 0.0029898115954797386
+      },
+      {
+        "feature": "apreço",
+        "importance": 0.002796710498199593
+      },
+      {
+        "feature": "muito",
+        "importance": 0.0025167951668531425
+      },
+      {
+        "feature": "eu",
+        "importance": 0.0012808963501108807
+      },
+      {
+        "feature": "t",
+        "importance": -0.0010609909319571475
+      },
+      {
+        "feature": "tinha",
+        "importance": -0.000997127789586636
+      }
+    ]
+  },
+  {
+    "sample_id": 3016,
+    "text": "O que se passa com os angolanos? 😂😂😂 https://t.co/yqPDZZOkui",
+    "true_label": 1,
+    "predicted_label": 2,
+    "prediction_probability": 0.3916362226009369,
+    "all_probabilities": [
+      0.2527286410331726,
+      0.3556350767612457,
+      0.3916362226009369
+    ],
+    "lime_explanation": [
+      {
+        "feature": "https",
+        "importance": 0.013935251834887369
+      },
+      {
+        "feature": "yqPDZZOkui",
+        "importance": -0.01068980300903314
+      },
+      {
+        "feature": "angolanos",
+        "importance": 0.00661702988656461
+      },
+      {
+        "feature": "O",
+        "importance": -0.00326936760277385
+      },
+      {
+        "feature": "com",
+        "importance": 0.0029679627624013246
+      },
+      {
+        "feature": "t",
+        "importance": -0.0025969843251429617
+      },
+      {
+        "feature": "passa",
+        "importance": -0.0021820232097934274
+      },
+      {
+        "feature": "co",
+        "importance": 0.0019008915794936489
+      },
+      {
+        "feature": "que",
+        "importance": 0.0009680835575931456
+      },
+      {
+        "feature": "se",
+        "importance": -0.00014747965329866162
+      }
+    ]
+  },
+  {
+    "sample_id": 419,
+    "text": "😂ih uns tantos mas meu Fav é one piece https://t.co/RU3V8QUmAE",
+    "true_label": 2,
+    "predicted_label": 2,
+    "prediction_probability": 0.38260769844055176,
+    "all_probabilities": [
+      0.26959747076034546,
+      0.3477948307991028,
+      0.38260769844055176
+    ],
+    "lime_explanation": [
+      {
+        "feature": "RU3V8QUmAE",
+        "importance": -0.01683240071852804
+      },
+      {
+        "feature": "https",
+        "importance": 0.010190256994386498
+      },
+      {
+        "feature": "piece",
+        "importance": 0.009052547249658692
+      },
+      {
+        "feature": "one",
+        "importance": 0.004885888847345418
+      },
+      {
+        "feature": "Fav",
+        "importance": -0.004342796922885555
+      },
+      {
+        "feature": "meu",
+        "importance": -0.0032930707397540167
+      },
+      {
+        "feature": "mas",
+        "importance": 0.00204545633818366
+      },
+      {
+        "feature": "t",
+        "importance": -0.0014680918267051203
+      },
+      {
+        "feature": "co",
+        "importance": 0.0013910786906153486
+      },
+      {
+        "feature": "tantos",
+        "importance": 0.0013182512532341438
+      }
+    ]
+  }
+]

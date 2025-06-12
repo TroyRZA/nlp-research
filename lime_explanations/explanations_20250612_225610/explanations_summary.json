@@ -1,0 +1,53 @@
+{
+  "Swahili": {
+    "total_explanations": 10,
+    "average_prediction_confidence": 0.3734691023826599,
+    "correct_predictions": 5,
+    "top_important_features": {
+      "wakati": 0.011389462148680677,
+      "kujeruhiwa": 0.008271522464117692,
+      "Acha": 0.0076520851852737255,
+      "Je": 0.006973788365063236,
+      "Mo": 0.005887970971891906,
+      "29082018": 0.005522326868557069,
+      "kama": 0.0052026525480350925,
+      "unavyoletwa": 0.005054485751431852,
+      "kwenye": 0.004856036244833819,
+      "anapoteza": 0.004765512519107865
+    }
+  },
+  "Portuguese": {
+    "total_explanations": 10,
+    "average_prediction_confidence": 0.38557342886924745,
+    "correct_predictions": 2,
+    "top_important_features": {
+      "RU3V8QUmAE": 0.01683240071852804,
+      "hMjIFluEng": 0.01202333453245697,
+      "auiOlrA4nm": 0.011878432366094715,
+      "yqPDZZOkui": 0.01068980300903314,
+      "https": 0.010430911235293982,
+      "Messi": 0.009271615958526018,
+      "piece": 0.009052547249658692,
+      "6KQ7o5G3f2": 0.006823357149339269,
+      "angolanos": 0.00661702988656461,
+      "6": 0.006601142541020745
+    }
+  },
+  "Sesotho": {
+    "total_explanations": 10,
+    "average_prediction_confidence": 0.3652436524629593,
+    "correct_predictions": 3,
+    "top_important_features": {
+      "QOSOANG": 0.012276650899774491,
+      "LI": 0.011742954381110473,
+      "LITŠEPE": 0.008920842489161213,
+      "SEPETLELE": 0.00870220582379509,
+      "UTSUOENG": 0.008639368660114284,
+      "MOPARAMENTE": 0.007624033633057592,
+      "EME": 0.006968043462472682,
+      "MOSHANYANA": 0.006792329450447073,
+      "TONAKHOLO": 0.006491806820833606,
+      "NGAKA": 0.006092542968746308
+    }
+  }
+}

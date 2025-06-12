@@ -1,0 +1,542 @@
+[
+  {
+    "sample_id": 654,
+    "text": "Je wajua Binadamu mwenye afya yake kamili anapoteza lita 12 za maji katika mwili wake kwa njia ya mkojo pekee",
+    "true_label": 1,
+    "predicted_label": 1,
+    "prediction_probability": 0.3847343623638153,
+    "all_probabilities": [
+      0.3149428069591522,
+      0.3847343623638153,
+      0.30032286047935486
+    ],
+    "lime_explanation": [
+      {
+        "feature": "Je",
+        "importance": 0.006973788365063236
+      },
+      {
+        "feature": "anapoteza",
+        "importance": 0.004765512519107865
+      },
+      {
+        "feature": "njia",
+        "importance": 0.0025707819890821684
+      },
+      {
+        "feature": "wajua",
+        "importance": -0.002452615998589859
+      },
+      {
+        "feature": "mwili",
+        "importance": 0.002139717321576007
+      },
+      {
+        "feature": "pekee",
+        "importance": 0.0017621471918711348
+      },
+      {
+        "feature": "wake",
+        "importance": 0.0015587525639736237
+      },
+      {
+        "feature": "za",
+        "importance": -0.0010508557996830527
+      },
+      {
+        "feature": "afya",
+        "importance": -0.0010115761711902594
+      },
+      {
+        "feature": "Binadamu",
+        "importance": -0.000834776688552086
+      }
+    ]
+  },
+  {
+    "sample_id": 114,
+    "text": "   Utabiri wa Hali ya Hewa wa saa 24 zijazo kuanzia saa 3 usiku wa leo 29082018 kama unavyoletwa",
+    "true_label": 2,
+    "predicted_label": 1,
+    "prediction_probability": 0.3849715292453766,
+    "all_probabilities": [
+      0.2876746952533722,
+      0.3849715292453766,
+      0.3273538053035736
+    ],
+    "lime_explanation": [
+      {
+        "feature": "29082018",
+        "importance": 0.005522326868557069
+      },
+      {
+        "feature": "kama",
+        "importance": 0.0052026525480350925
+      },
+      {
+        "feature": "unavyoletwa",
+        "importance": -0.005054485751431852
+      },
+      {
+        "feature": "wa",
+        "importance": -0.004643715175942169
+      },
+      {
+        "feature": "zijazo",
+        "importance": -0.0030348765803905366
+      },
+      {
+        "feature": "saa",
+        "importance": 0.0026236767149567875
+      },
+      {
+        "feature": "kuanzia",
+        "importance": 0.0023334327916162932
+      },
+      {
+        "feature": "leo",
+        "importance": -0.002284438594624881
+      },
+      {
+        "feature": "usiku",
+        "importance": 0.0014741639810420027
+      },
+      {
+        "feature": "24",
+        "importance": 0.0013595331660942662
+      }
+    ]
+  },
+  {
+    "sample_id": 25,
+    "text": "   Mashambulizi yazidi huko Gaza huku raia wawili wa Israel wakiuawa nao Wapalestina kadhaa kujeruhiwa",
+    "true_label": 0,
+    "predicted_label": 1,
+    "prediction_probability": 0.3746638596057892,
+    "all_probabilities": [
+      0.2739923298358917,
+      0.3746638596057892,
+      0.3513438105583191
+    ],
+    "lime_explanation": [
+      {
+        "feature": "kujeruhiwa",
+        "importance": -0.008271522464117692
+      },
+      {
+        "feature": "Wapalestina",
+        "importance": 0.0046474940490954676
+      },
+      {
+        "feature": "kadhaa",
+        "importance": 0.0037410386964666967
+      },
+      {
+        "feature": "Mashambulizi",
+        "importance": 0.003352106067953527
+      },
+      {
+        "feature": "nao",
+        "importance": 0.0030226601012345975
+      },
+      {
+        "feature": "raia",
+        "importance": 0.002049937490310127
+      },
+      {
+        "feature": "Israel",
+        "importance": -0.0017281902135782845
+      },
+      {
+        "feature": "huko",
+        "importance": 0.0011372455971098826
+      },
+      {
+        "feature": "wawili",
+        "importance": -0.0010606276765291053
+      },
+      {
+        "feature": "wa",
+        "importance": 0.0006135120010979829
+      }
+    ]
+  },
+  {
+    "sample_id": 281,
+    "text": "Unataka kunidondoshea agendaniache ninywe biawe ndo ulikuwa unamuogopakalegea sahivi ndo huogopi pambano",
+    "true_label": 1,
+    "predicted_label": 1,
+    "prediction_probability": 0.36470770835876465,
+    "all_probabilities": [
+      0.28280726075172424,
+      0.36470770835876465,
+      0.35248497128486633
+    ],
+    "lime_explanation": [
+      {
+        "feature": "kunidondoshea",
+        "importance": -0.0046569585928759
+      },
+      {
+        "feature": "ulikuwa",
+        "importance": 0.004329732864819906
+      },
+      {
+        "feature": "agendaniache",
+        "importance": -0.003555541691158674
+      },
+      {
+        "feature": "Unataka",
+        "importance": 0.003428243305313421
+      },
+      {
+        "feature": "ninywe",
+        "importance": 0.0031986464192501475
+      },
+      {
+        "feature": "ndo",
+        "importance": -0.0029575821018191814
+      },
+      {
+        "feature": "biawe",
+        "importance": -0.0009728477638724008
+      },
+      {
+        "feature": "sahivi",
+        "importance": 0.0009015614210684701
+      },
+      {
+        "feature": "unamuogopakalegea",
+        "importance": -0.0008508537091918567
+      },
+      {
+        "feature": "pambano",
+        "importance": -0.0005706832321982648
+      }
+    ]
+  },
+  {
+    "sample_id": 250,
+    "text": "Kwamba acha kunyonya maziwa ya mama yale ni ya mtoto wako Acha kabisa",
+    "true_label": 1,
+    "predicted_label": 1,
+    "prediction_probability": 0.37488844990730286,
+    "all_probabilities": [
+      0.30668118596076965,
+      0.37488844990730286,
+      0.3184303939342499
+    ],
+    "lime_explanation": [
+      {
+        "feature": "Acha",
+        "importance": -0.0076520851852737255
+      },
+      {
+        "feature": "Kwamba",
+        "importance": 0.0024766067220611332
+      },
+      {
+        "feature": "ya",
+        "importance": 0.002355420218611191
+      },
+      {
+        "feature": "mtoto",
+        "importance": -0.002348701088062628
+      },
+      {
+        "feature": "maziwa",
+        "importance": 0.0019481059151244008
+      },
+      {
+        "feature": "ni",
+        "importance": 0.0017636714208804178
+      },
+      {
+        "feature": "wako",
+        "importance": -0.0016927147314003577
+      },
+      {
+        "feature": "kunyonya",
+        "importance": 0.0013655503227657103
+      },
+      {
+        "feature": "yale",
+        "importance": 0.0010997646766405726
+      },
+      {
+        "feature": "mama",
+        "importance": 0.0007257772981404081
+      }
+    ]
+  },
+  {
+    "sample_id": 228,
+    "text": "Matatizo ya kiufundi hutokea katika Mtandao wowote Pole kwa usumbufu tuvumilie wakati huu tunapotafuta ufumbuzi wa haraka",
+    "true_label": 1,
+    "predicted_label": 1,
+    "prediction_probability": 0.36931321024894714,
+    "all_probabilities": [
+      0.30858537554740906,
+      0.36931321024894714,
+      0.3221014440059662
+    ],
+    "lime_explanation": [
+      {
+        "feature": "hutokea",
+        "importance": 0.0029796536622525025
+      },
+      {
+        "feature": "tuvumilie",
+        "importance": 0.002932019647523975
+      },
+      {
+        "feature": "kwa",
+        "importance": -0.0022963106531214217
+      },
+      {
+        "feature": "Pole",
+        "importance": -0.002150707184709716
+      },
+      {
+        "feature": "ufumbuzi",
+        "importance": 0.0020569127257726474
+      },
+      {
+        "feature": "tunapotafuta",
+        "importance": 0.0012158322919334178
+      },
+      {
+        "feature": "wa",
+        "importance": -0.0011309055869568217
+      },
+      {
+        "feature": "Matatizo",
+        "importance": 0.0010724717090812635
+      },
+      {
+        "feature": "kiufundi",
+        "importance": -0.0010088212149902765
+      },
+      {
+        "feature": "usumbufu",
+        "importance": 0.0009808256544300937
+      }
+    ]
+  },
+  {
+    "sample_id": 142,
+    "text": "   Kaya ya Mwanaume kwa desturi zetu ndio ina haki kwa 100 katika kurithi mirathi na mwanamke unakuwa umekuja tu kuolewa",
+    "true_label": 1,
+    "predicted_label": 1,
+    "prediction_probability": 0.37081238627433777,
+    "all_probabilities": [
+      0.3090285062789917,
+      0.37081238627433777,
+      0.32015910744667053
+    ],
+    "lime_explanation": [
+      {
+        "feature": "na",
+        "importance": -0.003864205609371011
+      },
+      {
+        "feature": "Kaya",
+        "importance": 0.0036606578003144153
+      },
+      {
+        "feature": "100",
+        "importance": 0.0032424128645751615
+      },
+      {
+        "feature": "kwa",
+        "importance": 0.0023717683503556137
+      },
+      {
+        "feature": "ina",
+        "importance": -0.0020531715914860974
+      },
+      {
+        "feature": "katika",
+        "importance": -0.002000384645959291
+      },
+      {
+        "feature": "desturi",
+        "importance": -0.0017020823149666861
+      },
+      {
+        "feature": "unakuwa",
+        "importance": 0.001446236959508678
+      },
+      {
+        "feature": "mirathi",
+        "importance": -0.0012997668272883849
+      },
+      {
+        "feature": "haki",
+        "importance": 0.0012311282572837997
+      }
+    ]
+  },
+  {
+    "sample_id": 104,
+    "text": "   Fursa ina uhusiano mwingi na wakati na labda bahati nzuri Matokeo yanategemea sana juhudi",
+    "true_label": 2,
+    "predicted_label": 1,
+    "prediction_probability": 0.3710840344429016,
+    "all_probabilities": [
+      0.2653760015964508,
+      0.3710840344429016,
+      0.3635399341583252
+    ],
+    "lime_explanation": [
+      {
+        "feature": "wakati",
+        "importance": 0.011389462148680677
+      },
+      {
+        "feature": "juhudi",
+        "importance": -0.004463924868355157
+      },
+      {
+        "feature": "na",
+        "importance": -0.003161309720847588
+      },
+      {
+        "feature": "yanategemea",
+        "importance": 0.0025615277832286357
+      },
+      {
+        "feature": "mwingi",
+        "importance": 0.0024419615980581033
+      },
+      {
+        "feature": "uhusiano",
+        "importance": -0.0019710796117580007
+      },
+      {
+        "feature": "ina",
+        "importance": -0.0018471477807915962
+      },
+      {
+        "feature": "Fursa",
+        "importance": 0.0014887130062659014
+      },
+      {
+        "feature": "labda",
+        "importance": 0.0012583896412385169
+      },
+      {
+        "feature": "Matokeo",
+        "importance": 0.0009568252588690073
+      }
+    ]
+  },
+  {
+    "sample_id": 692,
+    "text": "   Mambo Haya Ndo Alikua Hatak Manara Dada Babra Kahusikaje kwenye Iyo Picha Ila wamesahau na Mo Hapo ",
+    "true_label": 0,
+    "predicted_label": 1,
+    "prediction_probability": 0.3705504834651947,
+    "all_probabilities": [
+      0.2910403609275818,
+      0.3705504834651947,
+      0.3384091556072235
+    ],
+    "lime_explanation": [
+      {
+        "feature": "Mo",
+        "importance": 0.005887970971891906
+      },
+      {
+        "feature": "kwenye",
+        "importance": 0.004856036244833819
+      },
+      {
+        "feature": "na",
+        "importance": -0.0031273365953252827
+      },
+      {
+        "feature": "Ila",
+        "importance": -0.0029006166555356565
+      },
+      {
+        "feature": "Mambo",
+        "importance": -0.002410392704246845
+      },
+      {
+        "feature": "Babra",
+        "importance": 0.002143786632458209
+      },
+      {
+        "feature": "Kahusikaje",
+        "importance": 0.0019146675055304206
+      },
+      {
+        "feature": "wamesahau",
+        "importance": -0.0016940738344556003
+      },
+      {
+        "feature": "Hatak",
+        "importance": 0.0013708776798265763
+      },
+      {
+        "feature": "Iyo",
+        "importance": -0.0012851341758007924
+      }
+    ]
+  },
+  {
+    "sample_id": 558,
+    "text": "   616 Safari yetu ikaendelea zaidi huku kila mmoja wetu akiwa na shauku ya kuona mambo zaidi ndani ya Msitu wa Pugu ulio sh",
+    "true_label": 2,
+    "predicted_label": 1,
+    "prediction_probability": 0.3689649999141693,
+    "all_probabilities": [
+      0.27397751808166504,
+      0.3689649999141693,
+      0.35705745220184326
+    ],
+    "lime_explanation": [
+      {
+        "feature": "Safari",
+        "importance": -0.003681437278115728
+      },
+      {
+        "feature": "ulio",
+        "importance": -0.0035836859761145625
+      },
+      {
+        "feature": "sh",
+        "importance": -0.0027102334841397624
+      },
+      {
+        "feature": "616",
+        "importance": 0.002590276554326597
+      },
+      {
+        "feature": "ikaendelea",
+        "importance": 0.002552238740835232
+      },
+      {
+        "feature": "zaidi",
+        "importance": 0.002474655496758298
+      },
+      {
+        "feature": "ya",
+        "importance": -0.0024303157282221824
+      },
+      {
+        "feature": "shauku",
+        "importance": 0.0017062376876639067
+      },
+      {
+        "feature": "Pugu",
+        "importance": 0.001623266375948413
+      },
+      {
+        "feature": "kuona",
+        "importance": 0.0014117131130009606
+      }
+    ]
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "sample_id": 163,
+    "text": "TONAKHOLO O RE 'MUSO OA HAE O TJAMETSOE KE HO SE QETE LILEMO TSE HLANO",
+    "true_label": 0,
+    "predicted_label": 2,
+    "prediction_probability": 0.36638814210891724,
+    "all_probabilities": [
+      0.27377524971961975,
+      0.3598365783691406,
+      0.36638814210891724
+    ],
+    "lime_explanation": [
+      {
+        "feature": "TJAMETSOE",
+        "importance": 0.0052176175422343485
+      },
+      {
+        "feature": "LILEMO",
+        "importance": 0.0036425059124261653
+      },
+      {
+        "feature": "MUSO",
+        "importance": 0.003597195673032837
+      },
+      {
+        "feature": "SE",
+        "importance": -0.002983898402809333
+      },
+      {
+        "feature": "O",
+        "importance": -0.0024583785696569733
+      },
+      {
+        "feature": "HAE",
+        "importance": -0.0021368361239425576
+      },
+      {
+        "feature": "HLANO",
+        "importance": 0.0016539808971526395
+      },
+      {
+        "feature": "OA",
+        "importance": -0.0014820913193606398
+      },
+      {
+        "feature": "TSE",
+        "importance": 0.0014340041476106095
+      },
+      {
+        "feature": "KE",
+        "importance": 0.0013839021202549928
+      }
+    ]
+  },
+  {
+    "sample_id": 28,
+    "text": "MOSALI O SIHILE LESEA LE THOTO EA LONA NAHA THOTHE",
+    "true_label": 0,
+    "predicted_label": 2,
+    "prediction_probability": 0.37092339992523193,
+    "all_probabilities": [
+      0.2771730124950409,
+      0.35190364718437195,
+      0.37092339992523193
+    ],
+    "lime_explanation": [
+      {
+        "feature": "LE",
+        "importance": -0.005164033117103175
+      },
+      {
+        "feature": "THOTO",
+        "importance": 0.004691845540130821
+      },
+      {
+        "feature": "O",
+        "importance": -0.004573135194096221
+      },
+      {
+        "feature": "THOTHE",
+        "importance": 0.003394618825288709
+      },
+      {
+        "feature": "LESEA",
+        "importance": -0.003347170144908354
+      },
+      {
+        "feature": "MOSALI",
+        "importance": 0.0022848106019202974
+      },
+      {
+        "feature": "LONA",
+        "importance": 0.002218861719026257
+      },
+      {
+        "feature": "NAHA",
+        "importance": 0.0010115859951187111
+      },
+      {
+        "feature": "EA",
+        "importance": -0.000784377633591588
+      },
+      {
+        "feature": "SIHILE",
+        "importance": -0.0005349666916575668
+      }
+    ]
+  },
+  {
+    "sample_id": 6,
+    "text": "LI HONDA FIT TSA MAPOLESA LI EME MEEMO",
+    "true_label": 2,
+    "predicted_label": 2,
+    "prediction_probability": 0.36676743626594543,
+    "all_probabilities": [
+      0.273712158203125,
+      0.35952040553092957,
+      0.36676743626594543
+    ],
+    "lime_explanation": [
+      {
+        "feature": "LI",
+        "importance": 0.011742954381110473
+      },
+      {
+        "feature": "EME",
+        "importance": -0.006968043462472682
+      },
+      {
+        "feature": "TSA",
+        "importance": 0.002336266700308383
+      },
+      {
+        "feature": "FIT",
+        "importance": 0.0008861704526016643
+      },
+      {
+        "feature": "MEEMO",
+        "importance": 0.0004505678686237295
+      },
+      {
+        "feature": "HONDA",
+        "importance": -0.0003105462400060666
+      },
+      {
+        "feature": "MAPOLESA",
+        "importance": -0.00014520121669683658
+      }
+    ]
+  },
+  {
+    "sample_id": 189,
+    "text": "KAROLO EA KOMPONE E CHELE KAJENO",
+    "true_label": 0,
+    "predicted_label": 2,
+    "prediction_probability": 0.37322190403938293,
+    "all_probabilities": [
+      0.27945172786712646,
+      0.3473263680934906,
+      0.37322190403938293
+    ],
+    "lime_explanation": [
+      {
+        "feature": "EA",
+        "importance": -0.00603512771943102
+      },
+      {
+        "feature": "E",
+        "importance": -0.005329404635566699
+      },
+      {
+        "feature": "KAROLO",
+        "importance": 0.0045226334155965935
+      },
+      {
+        "feature": "KAJENO",
+        "importance": 0.0028435311711303953
+      },
+      {
+        "feature": "CHELE",
+        "importance": -0.001639229917351346
+      },
+      {
+        "feature": "KOMPONE",
+        "importance": -0.00034647841731265573
+      }
+    ]
+  },
+  {
+    "sample_id": 70,
+    "text": "MONNA O REKISETSA BATHO LITOKOMANE TSA MOKUNYATA",
+    "true_label": 0,
+    "predicted_label": 1,
+    "prediction_probability": 0.36148717999458313,
+    "all_probabilities": [
+      0.288431853055954,
+      0.36148717999458313,
+      0.3500809371471405
+    ],
+    "lime_explanation": [
+      {
+        "feature": "O",
+        "importance": -0.006744076453853464
+      },
+      {
+        "feature": "TSA",
+        "importance": 0.004138967155694973
+      },
+      {
+        "feature": "MONNA",
+        "importance": 0.003947278705999416
+      },
+      {
+        "feature": "BATHO",
+        "importance": 0.0028848258374328324
+      },
+      {
+        "feature": "REKISETSA",
+        "importance": -0.0015545463631954988
+      },
+      {
+        "feature": "LITOKOMANE",
+        "importance": 0.0013560326273017332
+      },
+      {
+        "feature": "MOKUNYATA",
+        "importance": -0.0008414194429330355
+      }
+    ]
+  },
+  {
+    "sample_id": 62,
+    "text": "MOSHANYANA O LLELOA KE LITŠEPE KA POLAO",
+    "true_label": 0,
+    "predicted_label": 1,
+    "prediction_probability": 0.359580934047699,
+    "all_probabilities": [
+      0.2823243737220764,
+      0.359580934047699,
+      0.3580946922302246
+    ],
+    "lime_explanation": [
+      {
+        "feature": "LITŠEPE",
+        "importance": -0.008920842489161213
+      },
+      {
+        "feature": "MOSHANYANA",
+        "importance": 0.006792329450447073
+      },
+      {
+        "feature": "O",
+        "importance": -0.005206225083814511
+      },
+      {
+        "feature": "KE",
+        "importance": 0.004726547362249773
+      },
+      {
+        "feature": "LLELOA",
+        "importance": 0.002617441566601752
+      },
+      {
+        "feature": "KA",
+        "importance": 0.0025757513657084018
+      },
+      {
+        "feature": "POLAO",
+        "importance": 0.001899813587118438
+      }
+    ]
+  },
+  {
+    "sample_id": 57,
+    "text": "SEPETLELE SE NTŠA POLELO KA NGAKA E QOSOANG",
+    "true_label": 0,
+    "predicted_label": 1,
+    "prediction_probability": 0.35817474126815796,
+    "all_probabilities": [
+      0.2860151529312134,
+      0.35817474126815796,
+      0.35581013560295105
+    ],
+    "lime_explanation": [
+      {
+        "feature": "QOSOANG",
+        "importance": 0.012276650899774491
+      },
+      {
+        "feature": "SEPETLELE",
+        "importance": -0.00870220582379509
+      },
+      {
+        "feature": "NGAKA",
+        "importance": -0.006092542968746308
+      },
+      {
+        "feature": "POLELO",
+        "importance": 0.005951959396869568
+      },
+      {
+        "feature": "E",
+        "importance": -0.002327338493712234
+      },
+      {
+        "feature": "SE",
+        "importance": -0.0013260906705141581
+      },
+      {
+        "feature": "NTŠA",
+        "importance": -0.0010425522965588298
+      },
+      {
+        "feature": "KA",
+        "importance": 0.0004749348554527315
+      }
+    ]
+  },
+  {
+    "sample_id": 35,
+    "text": "CHELETE E UTSUOENG E EA FUMANOA",
+    "true_label": 2,
+    "predicted_label": 2,
+    "prediction_probability": 0.3659762442111969,
+    "all_probabilities": [
+      0.28304702043533325,
+      0.35097676515579224,
+      0.3659762442111969
+    ],
+    "lime_explanation": [
+      {
+        "feature": "UTSUOENG",
+        "importance": 0.008639368660114284
+      },
+      {
+        "feature": "E",
+        "importance": -0.008135192448551412
+      },
+      {
+        "feature": "CHELETE",
+        "importance": -0.005942897325898219
+      },
+      {
+        "feature": "EA",
+        "importance": -0.0043560334775038356
+      },
+      {
+        "feature": "FUMANOA",
+        "importance": -0.003596760155896504
+      }
+    ]
+  },
+  {
+    "sample_id": 188,
+    "text": "MOSALI O HLAHA KHOTLA KA POLAO EA MONNA OA HAE",
+    "true_label": 0,
+    "predicted_label": 2,
+    "prediction_probability": 0.36808711290359497,
+    "all_probabilities": [
+      0.2807996869087219,
+      0.3511132299900055,
+      0.36808711290359497
+    ],
+    "lime_explanation": [
+      {
+        "feature": "MONNA",
+        "importance": 0.0052272408860487285
+      },
+      {
+        "feature": "HAE",
+        "importance": -0.003967686685236367
+      },
+      {
+        "feature": "EA",
+        "importance": -0.0023269075631144236
+      },
+      {
+        "feature": "HLAHA",
+        "importance": 0.0021037950023802517
+      },
+      {
+        "feature": "OA",
+        "importance": -0.0019499948262375116
+      },
+      {
+        "feature": "KHOTLA",
+        "importance": 0.0013547334192446627
+      },
+      {
+        "feature": "POLAO",
+        "importance": 0.0010485340904672709
+      },
+      {
+        "feature": "O",
+        "importance": 0.0004428550401074468
+      },
+      {
+        "feature": "MOSALI",
+        "importance": 0.0003180420346102711
+      },
+      {
+        "feature": "KA",
+        "importance": 1.2944081300683549e-05
+      }
+    ]
+  },
+  {
+    "sample_id": 26,
+    "text": "MOPARAMENTE OA MEHLENG O SHAPELA TONAKHOLO LEHOFI",
+    "true_label": 2,
+    "predicted_label": 2,
+    "prediction_probability": 0.3618294298648834,
+    "all_probabilities": [
+      0.2798854112625122,
+      0.35828515887260437,
+      0.3618294298648834
+    ],
+    "lime_explanation": [
+      {
+        "feature": "MOPARAMENTE",
+        "importance": -0.007624033633057592
+      },
+      {
+        "feature": "TONAKHOLO",
+        "importance": 0.006491806820833606
+      },
+      {
+        "feature": "SHAPELA",
+        "importance": 0.0054799284259781375
+      },
+      {
+        "feature": "LEHOFI",
+        "importance": -0.004382159924497827
+      },
+      {
+        "feature": "MEHLENG",
+        "importance": 0.003399618510965775
+      },
+      {
+        "feature": "O",
+        "importance": -0.0026392094041558737
+      },
+      {
+        "feature": "OA",
+        "importance": 0.0011662222169207981
+      }
+    ]
+  }
+]
