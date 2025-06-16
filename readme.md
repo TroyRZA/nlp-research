@@ -9,6 +9,8 @@ The project explores various approaches including traditional Long Short-Term Me
 
 ## 📊 Key Results
 
+[We will add this once we've completed the conclusion in the report]
+
 ## 🎯 Objectives
 
 - Evaluate sentiment analysis performance on low-resource African languages
