@@ -7,18 +7,18 @@ This repository contains the implementation and experiments for sentiment analys
 The project explores various approaches including traditional Long Short-Term Memory (LSTM) networks, transformer-based BERT models, data augmentation, and different fine-tuning strategies (full fine-tuning vs. adapters).
 
 
-## 📊 Key Results
+## Key Results
 
 [We will add this once we've completed the conclusion in the report]
 
-## 🎯 Objectives
+## Objectives
 
 - Evaluate sentiment analysis performance on low-resource African languages
 - Compare traditional neural networks (LSTM) with transformer-based models (mBERT, XLM-R, AfroXLMR)
 - Assess the effectiveness of Adapters compared to full fine-tuning strategies
 - Investigate data augmentation techniques for improving model performance with low-resource African languages
 
-## 📚 Datasets
+## Datasets
 
 ### AfriSenti Dataset
 - **Description**: Multilingual sentiment analysis dataset for African languages
@@ -30,7 +30,7 @@ The project explores various approaches including traditional Long Short-Term Me
 - **Domain**: [News headlines and articles](https://zenodo.org/records/10531959)
 - **Classes**: [Negative, Neutral, Positive]
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── datasets/
@@ -67,7 +67,7 @@ The project explores various approaches including traditional Long Short-Term Me
 └── readme.md
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Training Parameters
 
