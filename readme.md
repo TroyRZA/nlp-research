@@ -9,7 +9,9 @@ The project explores various approaches including traditional Long Short-Term Me
 
 ## Key Results
 
-[We will add this once we've completed the conclusion in the report]
+Full fine-tuning was found to be resource intensive, although it did show significant improvements against the baseline.
+
+Adapters were found to be a viable alternative to full fine-tuning for cross-lingual transfer and sentiment analysis.
 
 ## Objectives
 
