@@ -89,7 +89,7 @@ pip install jupyter
 # Data information
 The datasets must be placed within a folder labelled `datasets`. Each language in afrisenti will be placed in its own folder. The data within the folders will be split into three sets (train, test and validate).
 ### AfriSenti Dataset  
-- **Description**: A sentiment analysis benchmark that contains more than110,000 tweets in 14 African languages (Amharic, Algerian Arabic, Hausa, Igbo, Kinyarwanda, Moroccan Arabic, Mozambican Portuguese, Nigerian Pidgin, Oromo, Swahili, Tigrinya, Twi, Xitsonga, and Yoruba) from four language families.
+- **Description**: A sentiment analysis benchmark that contains more than 110,000 tweets in 14 African languages (Amharic, Algerian Arabic, Hausa, Igbo, Kinyarwanda, Moroccan Arabic, Mozambican Portuguese, Nigerian Pidgin, Oromo, Swahili, Tigrinya, Twi, Xitsonga, and Yoruba) from four language families.
 - **Languages**: [**Mozambican Portuguese** and **Swahili**](https://github.com/afrisenti-semeval/afrisent-semeval-2023?tab=readme-ov-file#-)  
 - Download: [Here](https://github.com/afrisenti-semeval/afrisent-semeval-2023)
 - **Classes**: [Negative, Neutral, Positive]  
