@@ -3,3 +3,4 @@ models
 lstm_models
 lime_explanations
 benchmark_results
+nlp-env
